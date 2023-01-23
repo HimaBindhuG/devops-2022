@@ -1,3 +1,7 @@
+[![Python application test with Github Actions](https://github.com/HimaBindhuG/devops-2022/actions/workflows/main.yml/badge.svg)](https://github.com/HimaBindhuG/devops-2022/actions/workflows/main.yml)
+
+
+
 # devops-2022
 repo for devops
 
